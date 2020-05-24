@@ -11,6 +11,7 @@ function yourAnimal() {
   return animal
 }
 
+let n = 1
 function add2(n) {
   return n + two
 
